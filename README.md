@@ -1,12 +1,12 @@
 # pycharm_installation-linux
 Pycharm Installation and run from anywhere in linux
 
-#Dowload Pycharm Community Version from its official website<br>
+#Download Pycharm Community Version from its official website<br>
 exctract from the /home/user/Downloads directory<br>
-opne the exctrated directory<br>
+open the exctrated directory<br>
 go to bin folder<br>
 open terminal from there<br>
-write the command
+write the below command
 ```
 ./pycharm
 ```
